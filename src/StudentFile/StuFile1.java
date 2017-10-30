@@ -9,4 +9,9 @@ public class StuFile1 {
     public void fly() {
         System.out.println("bird can fly,but I can not.");
     }
+
+    //睡觉的方法
+    public  void  sleep () {
+        System.out.println("人有睡觉，动物有冬眠");
+    }
 }
