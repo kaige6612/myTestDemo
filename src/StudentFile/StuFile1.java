@@ -4,9 +4,6 @@ public class StuFile1 {
     public void  eat() {
         System.out.println("动物的共性");
     }
-
-
-
     //睡觉的方法
     public  void  sleep () {
         System.out.println("人有睡觉，动物有冬眠");
